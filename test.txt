@@ -1,0 +1,4 @@
+ant strong
+bee buzzy sore
+cat miaow pet
+dog bark pet
